@@ -23,3 +23,5 @@ EXPOSE 8080
 
 USER  1001
 
+CMD   /opt/app-root/bin/run-app.sh
+
