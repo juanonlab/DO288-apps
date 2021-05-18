@@ -22,3 +22,4 @@ RUN   chgrp -R 0 /opt/app-root && \
 EXPOSE 8080
 
 USER  1001
+
