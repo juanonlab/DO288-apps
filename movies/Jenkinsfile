@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "juan-pardo-palazon-movies-dev"
         STAGE_PROJECT = "juan-pardo-palazon-movies-stage"
         APP_GIT_URL = "https://github.com/juanolab/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/java"
+        NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nextcle.com/repository/java"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "movies"
